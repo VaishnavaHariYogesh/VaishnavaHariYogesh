@@ -11,15 +11,13 @@ I'm an Artificial Intelligence student at Indiana University Indianapolis pursui
 
 ## Technical Skills
 
-* **Languages:** Python, Java
-* **Currently Learning:** SQL, R
-* **Concepts:** Data Structures, Algorithms, Database Design, Relational Databases
-* **Tools:** GitHub
+* **Languages:** Python, Java, SQL, R, HTML/CSS
+* **Concepts:** Machine Learning, Algorithms, Object-Oriented Programming, Relational Database Design, Normalization
+* **Tools:** Git, GitHub, API Integration, Software Testing, Documentation
 
 ## Current Focus
 
-* Beginning an Honors project comparing pathfinding algorithms for autonomous navigation
-* Beginning an Honors project involving relational and JSON database design
+* Working on projects, including comparing pathfinding algorithms for autonomous navigation and involving relational and JSON database design.
 * Building a stronger foundation in software development and problem-solving
 
 ## Connect With Me
